@@ -1,0 +1,26 @@
+html{min-height: 100%; position: relative;}
+h1{color: white;}
+body{color: white;
+	text-align: center;
+	background: #392e5c;
+	font-family: 'K2D', sans-serif;
+	margin: 0 0 100px}
+header{background: black; text-align: left;}
+footer{background: black; text-align: left; position: absolute; left: 0; bottom: 0; width:100%; overflow: hidden; height: 75px}
+section{float: left;width: 50%;}
+aside{float: right;width: 50%;}
+.logo{width: 100px;padding: 10px;}
+.Chibi{width: 25%;}
+.twitch{color: white; font-size: 50px;}
+.twitch:hover{color:grey;}
+.links{color: white; font-size: 24px; text-decoration: none;}
+.links:hover{color:grey;}
+.mail{font-size: 32px;}
+.menu{color:white; font-size: 24px; background-color: black; border: none;text-decoration: none; padding: 10px;}
+.menu:hover{background-color: white;color: black;text-decoration: none;}
+.results{list-style-type: disc; text-align: left;}
+.footlinks{color: white; text-decoration: none;float:right;font-size: 32px; margin: 10px}
+.footlinks:hover{color: grey;}
+.HSlogo{width:3%;}
+.logoclass{width:5%; margin: 3px;}
+.logoclass:hover{opacity: 0.7}
