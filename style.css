@@ -1,12 +1,12 @@
 html{min-height: 100%; position: relative;}
-h1{color: white;}
-body{color: white;
+h1{color: rgb(161, 144, 127);}
+body{color: rgb(161, 144, 127);
 	text-align: center;
-	background: #392e5c;
+	background: white;
 	font-family: 'K2D', sans-serif;
 	margin: 0 0 100px}
-header{background: black; text-align: left;}
-footer{background: black; text-align: left; position: absolute; left: 0; bottom: 0; width:100%; overflow: hidden; height: 75px}
+header{background: rgb(161, 144, 127); text-align: left;}
+footer{background-image: url("Images/bois.jpg"); background-color:rgb(161, 144, 127) ; text-align: left; position: absolute; left: 0; bottom: 0; width:100%; overflow: hidden; height: 75px}
 section{float: left;width: 50%;}
 aside{float: right;width: 50%;}
 .logo{width: 100px;padding: 10px;}
@@ -16,7 +16,7 @@ aside{float: right;width: 50%;}
 .links{color: white; font-size: 24px; text-decoration: none;}
 .links:hover{color:grey;}
 .mail{font-size: 32px;}
-.menu{color:white; font-size: 24px; background-color: black; border: none;text-decoration: none; padding: 10px;}
+.menu{color:white; font-size: 24px; background-color: rgb(161, 144, 127); border: none;text-decoration: none; padding: 10px;}
 .menu:hover{background-color: white;color: black;text-decoration: none;}
 .results{list-style-type: disc; text-align: left;}
 .footlinks{color: white; text-decoration: none;float:right;font-size: 32px; margin: 10px}
